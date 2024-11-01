@@ -1,1 +1,2 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
+newbie-task/mission_17_10_2023-16_29_06.pkl filter=lfs diff=lfs merge=lfs -text
